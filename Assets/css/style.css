@@ -1,12 +1,16 @@
 body {
     background-color: purple;
-    background: url("../images/end-game4.jpg");
+    background: url("../images/end-game1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    
+    height: 1000px;
 }
 
-
+.navigation {
+    background: url("../images/cosmic_dream.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .text-box {
     border-color: black;
 }
