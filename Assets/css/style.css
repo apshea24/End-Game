@@ -1,12 +1,16 @@
 body {
-    color: grey;
-    /* background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpf9pfX_T4H4PBDQ-vx0N6ZDr0rlETC8EVX7GMXTbeC7DflJOIA");
+    background-color: purple;
+    /* background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGukWSsm4C6_J1qeTvlaINrNqdd-QPNPpOBFkBmRC7aKuuvUm8yg"); */
     background-repeat: no-repeat;
-    background-size: cover; */
+    background-size: cover;
     
 }
 
 
 .text-box {
     border-color: black;
+}
+
+.main-content {
+    opacity: .9;
 }
