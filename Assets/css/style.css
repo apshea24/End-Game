@@ -1,6 +1,6 @@
 body {
     background-color: purple;
-    /* background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGukWSsm4C6_J1qeTvlaINrNqdd-QPNPpOBFkBmRC7aKuuvUm8yg"); */
+    background: url("../images/end-game4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -11,6 +11,16 @@ body {
     border-color: black;
 }
 
-.main-content {
-    opacity: .9;
+.test {
+    opacity: .8;
+    padding: 0px;
+    margin-top: 40px;
+    border-radius: 25px;
+    background-color: grey;
+    color: black;
 }
+
+.main-info {
+    margin: 10px;
+}
+
